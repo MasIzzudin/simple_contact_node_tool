@@ -1,0 +1,26 @@
+[
+    {
+        "nama": "Qois",
+        "phone": "082113147490",
+        "age": "26",
+        "address": "Solo"
+    },
+    {
+        "nama": "Ahsan",
+        "phone": "08111928881",
+        "age": "29",
+        "address": "Bogor"
+    },
+    {
+        "nama": "Andre",
+        "phone": "08567728181",
+        "age": "31",
+        "address": "Jember"
+    },
+    {
+        "nama": "Royhan",
+        "phone": "08572666121",
+        "age": "25",
+        "address": "Bekasi"
+    }
+]
